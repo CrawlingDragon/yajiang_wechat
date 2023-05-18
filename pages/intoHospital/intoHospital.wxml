@@ -1,0 +1,2 @@
+<!--pages/intoHospital/intoHospital.wxml-->
+<web-view src="{{webUrl}}/into_hospital"></web-view>

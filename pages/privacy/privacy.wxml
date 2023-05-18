@@ -1,0 +1,2 @@
+<!--pages/privacy/privacy.wxml-->
+<web-view src="{{url}}/service_agreement.html"></web-view>

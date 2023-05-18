@@ -1,0 +1,2 @@
+<!--pages/complaint.wxml-->
+<web-view src="{{webUrl}}/complaint_index"></web-view>

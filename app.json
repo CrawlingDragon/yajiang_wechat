@@ -1,0 +1,25 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/login/login",
+    "pages/intoHospital/intoHospital",
+    "pages/ask/ask",
+    "pages/message/message",
+    "pages/me/me",
+    "pages/agreement/agreement",
+    "pages/privacy/privacy",
+    "pages/logs/logs"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "雅江松茸数字平台",
+    "navigationBarTextStyle": "black"
+  },
+  "usingComponents": {
+    "van-toast": "@vant/weapp/toast/index"
+  },
+  "lazyCodeLoading": "requiredComponents",
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}
